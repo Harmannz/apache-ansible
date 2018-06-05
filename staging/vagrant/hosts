@@ -1,0 +1,2 @@
+[web]
+web.vagrant.apache.fun.dis.nz ansible_host=10.128.250.3 ansible_connection=local
