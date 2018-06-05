@@ -13,4 +13,4 @@ Add the following to host entries:
 10.255.250.3 web.vagrant.apache.fun.dis.nz
 ```
 
-Run `vagrant up` and access https://
+Run `vagrant up` and access https://web.vagrant.apache.fun.dis.nz
